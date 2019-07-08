@@ -1,4 +1,4 @@
-# React Common Interview Questions & Answers
+# React Common Questions & Answers
 
 > Click :star:if you like the project
 
