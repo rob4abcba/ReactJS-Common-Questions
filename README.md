@@ -1098,7 +1098,7 @@
 
 46. ### What are fragments?
 
-    It's common pattern in React which is used for a component to return multiple elements. *Fragments* let you group a list of children without adding extra nodes to the DOM.
+    It's common pattern in React which is used for a component to return multiple elements. *Fragments* let you group a list of children without adding extra nodes to the DOM. (RL: render() return ( requires a single parent as the toplevel ).  If you use a regular <div> as the toplevel, you will introduce an extra node in the DOM.)
 
     ```jsx harmony
     render() {
@@ -1112,7 +1112,7 @@
     }
     ```
 
-    There is also a *shorter syntax*, but it's not supported in many tools:
+    There is also a *shorter syntax*, but it's not supported in many tools:  (RL: Also
 
     ```jsx harmony
     render() {
