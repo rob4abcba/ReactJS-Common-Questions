@@ -1100,35 +1100,6 @@
     }
     ```
 
-46. ### What are fragments?
-
-    It's common pattern in React which is used for a component to return multiple elements. *Fragments* let you group a list of children without adding extra nodes to the DOM. (RL: render() return ( requires a single parent as the toplevel ).  If you use a regular <div> as the toplevel, you will introduce an extra node in the DOM.)
-
-    ```jsx harmony
-    render() {
-      return (
-        <React.Fragment>
-          <ChildA />
-          <ChildB />
-          <ChildC />
-        </React.Fragment>
-      )
-    }
-    ```
-
-    There is also a *shorter syntax*, but it's not supported in many tools:  (RL: Also
-
-    ```jsx harmony
-    render() {
-      return (
-        <>
-          <ChildA />
-          <ChildB />
-          <ChildC />
-        </>
-      )
-    }
-    ```
 
 47. ### Why fragments are better than container divs?
 
