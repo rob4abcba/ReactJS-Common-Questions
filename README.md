@@ -1011,6 +1011,8 @@
       {`Welcome ${user}, let's play React`}
     </div>
     ```
+    
+    RL: Tip: VSCode ```Ctrl + /``` knows how to turn anything you type into a comment, no matter which language
 
 40. ### What is the purpose of using super constructor with props argument?
 
