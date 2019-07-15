@@ -52,7 +52,6 @@
 |43 | [What would be the common mistake of function being called every time the component renders?](#what-would-be-the-common-mistake-of-function-being-called-every-time-the-component-renders) |
 |44 | [Why is it necessary to capitalize component names?](#why-is-it-necessary-to-capitalize-component-names) |
 |45 | [Why React uses className over class attribute?](#why-react-uses-classname-over-class-attribute) |
-|46 | [What are fragments?](#what-are-fragments) |
 |46 | [What are fragments?](https://github.com/rob4abcba/ReactJS-Common-Questions/blob/master/46-47.Fragments.md) |
 |46 | [What are fragments? Video](https://www.youtube.com/watch?v=_FXj-64LMBA) |
 |47 | [Why fragments are better than container divs?](#why-fragments-are-better-than-container-divs) |
